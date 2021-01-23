@@ -1,0 +1,55 @@
+// NOTE:  Documentation : 
+
+- everything a part from the api project is a class library project 
+
+
+
+
+
+
+// NOTE: cli commands : 
+
+
+//HACK: 1# -- creating the project folder structure and classes ... 
+
+1. dotnet new sln  
+2. dotnet new classlib -n Domain
+2. dotnet new classlib -n Application
+2. dotnet new classlib -n Persistence
+3. dotnet new webapi -n API
+
+
+//HACK:  2# -- Add our projects to our solution file. ... 
+
+-- 'this cmd look for a .cs file in our Domain folder and add's it the our solution'
+
+1.dotnet sln add domain/ 
+1.dotnet sln add Application/ 
+1.dotnet sln add Persistence/ 
+1.dotnet sln add API/ 
+
+//HACK:  3# -- Add dependencies to our projects 'references for every projects' ... 
+
+--  cd to Application : 
+1. dotnet add reference ../Domain/
+1. dotnet add reference ../Persistence/
+
+--  cd to API: 
+ //NOTE: the API is dependent on the Domain by Default throught the Apllication
+2.dotnet add reference ../Application/  
+
+--  cd to Persistance: 
+3. dotnet add reference ../Domain/
+
+
+
+
+
+
+
+
+// NOTE: ! General cli : 
+
+- dir 
+- dotnet sln -h
+- dotnet sln list
