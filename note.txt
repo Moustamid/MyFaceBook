@@ -53,3 +53,4 @@
 - dir 
 - dotnet sln -h
 - dotnet sln list
+- dotnet run -p API

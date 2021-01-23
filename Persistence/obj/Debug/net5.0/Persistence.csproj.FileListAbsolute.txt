@@ -1,0 +1,15 @@
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\bin\Debug\net5.0\Domain.dll
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\00-Developer World\00-BackEnd\03-Complete ASP NET Core\03-Complete guide to building an app with .Net Core and React\MyFaceBook\Persistence\obj\Debug\net5.0\Persistence.pdb
