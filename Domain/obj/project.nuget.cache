@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xT3lusyiTfqyxltmgp5VGywoFQbGPq9dM1UDb/gnSLEa8AnkJaovbuQnsrdjsYY3jAjJKz5fN7mVahdL9Pnk0g==",
+  "dgSpecHash": "mdacyggCFoU3i+5+XGM5g299yuOPOP2vP1IMr2jrC9VrkUQBR4NdEwIaWfQ6K6v70rIa8pr0jzMJZzsgvD6aBQ==",
   "success": true,
-  "projectFilePath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -42,15 +42,21 @@
 3. dotnet add reference ../Domain/
 
 
-
-
-
-
-
-
 // NOTE: ! General cli : 
 
 - dir 
 - dotnet sln -h
 - dotnet sln list
 - dotnet run -p API
+- dotnet restore
+
+
+
+//NOTE:  Nuget Packages in VSCode : 
+
+-- using the extention : (ctrl + shift +p) => NuGet packege add : 
+
+  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0"/>
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.0"/>
+
+//IMPORTANTE: the packages need to match our runTine 5.0.0

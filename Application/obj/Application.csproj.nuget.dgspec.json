@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj"
+              "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj": {
+                "projectPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj"
               },
               "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Persistence\\Persistence.csproj": {
                 "projectPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Persistence\\Persistence.csproj"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj": {
+    "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj",
+        "projectPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Moustamid\\.nuget\\packages\\",
-        "outputPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\obj\\",
+        "outputPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moustamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -143,8 +143,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\Domain\\Domain.csproj"
+              "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj": {
+                "projectPath": "D:\\00-Developer World\\00-BackEnd\\03-Complete ASP NET Core\\03-Complete guide to building an app with .Net Core and React\\MyFaceBook\\domain\\Domain.csproj"
               }
             }
           }
@@ -158,6 +158,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
